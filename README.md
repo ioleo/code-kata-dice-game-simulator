@@ -1,4 +1,4 @@
-# code-kata-acyclic-graph-distance
+# code-kata-dice-game-simulator
 
 Write a dice simulator. The game is played by P players (at least two) and takes R rounds (at least one). 
 Each round each player rolls D 6-sided dices (at least one) and sums the results. Each round players 
